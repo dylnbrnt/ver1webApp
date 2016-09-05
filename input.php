@@ -5,7 +5,7 @@ echo '<link href="styles/style.css" rel="stylesheet" type="text/css"/>';
 	echo '<nav>
 			<ul>
 				<li><a href="input.php">User</a> |	</li>
-				<li><a href="view.php">Order</a> |</li>
+				<li><a href="view.php">View</a> |</li>
 			</ul>
 		  </nav>
 	
